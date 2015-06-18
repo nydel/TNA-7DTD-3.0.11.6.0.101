@@ -10,7 +10,7 @@ The development was experimental in nature, and as such, much functionality ende
 
 - An in-game economy module featuring a shop, p2p transaction, and creation of new coins by surviving minutes and slaying zombies. The baseline rules for this module vis a vis coin payout and item prices are easily-adjustable in a configuration file.
 - Our famous "sethome" and "home" commands, part of the coming waypoint module which allows players to bookmark locations and - in some cases - teleport to them for an administrator-defined fee; of course this waypoint module is fully integrated with the economy module unless otherwise specified.
-- Gambling against the house/server! Using the syntax "gamble <coins> <odds>" a player can bet their coins when desperate and receive a payout appropriate to the odds within one hundredth of a billionth of a coin.
+- Gambling against the house/server! Using the syntax "gamble //coins// //odds//" a player can bet their coins when desperate and receive a payout appropriate to the odds within one hundredth of a billionth of a coin.
 - Vouching System. We at theGrapevine believe that MMO servers should not have traditional admins/moderators but rather a community of people who can vouch for one another and - pending administrator-defined procedure - gain access to the kick, kill and ban console commands.
 - Cross-Server Chat. Our community plays 03 separate games on the same server. For example, if Player1 says "hello" in Game1, players in Game2 and Game3 see "Server: [Player1|G1]: hello" in their world.
 - Advanced administrative commands including a "!blacklist/add" chat feature to automatically look up and ban by steamid a player who has logged out, so that they cannot log back in.
