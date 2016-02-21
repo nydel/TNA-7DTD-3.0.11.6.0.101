@@ -2,6 +2,8 @@
 
 7 Days To Die Dedicated Server Manager
 
+Recent Explanation of TNA Project: http://grapevine.motd.org/?p=145
+
 Writen in LISP and heavily-dependent upon :BORDEAUX-THREADS, :CL-PPCRE and :TELNETLIB systems - as well as upon Alloc's "Server Fixes" Revision 237 - this elegantly-designed management tool is ripe for expansion.
 
 The initial push of TNA for 7 Days To Die Dedicated includes only the basic module source and a few test functions. However, during development for TNA 2.0.11.X.101-503, we added numerous modules.
